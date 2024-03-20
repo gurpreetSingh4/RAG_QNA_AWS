@@ -1,0 +1,7 @@
+streamlit
+Pypdf
+boto3
+awscli
+python-dotenv
+langchain
+faiss-gpu
